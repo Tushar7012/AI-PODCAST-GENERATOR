@@ -3,7 +3,7 @@
     This project is an **AI-powered podcast generator** that:
     - Scrapes blog content from any URL,
     - Summarizes the content using a multi-agent LLM pipeline,
-    - Converts the summary into speech to generate a podcast episode!
+    - Converts the summary into speech to generate a podcast audio!
 
 ---
 
